@@ -5,8 +5,8 @@ using UnityEngine;
 public static class PMHelper
 {
     public static float ymax;
-    public static String curLevel="Level 1";
-    public static String nextLevel="Level 2";
+    public static String curLevel="Level 2";
+    public static String nextLevel="Level 3";
 
     public static GameObject Exist(String s)
     {
